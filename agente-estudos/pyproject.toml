@@ -1,0 +1,9 @@
+[project]
+name = "agente-estudos"
+version = "0.1.0"
+description = "Agente de Estudos em Python com Google ADK"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=2.13.0",
+    "google-cloud-storage>=3.17.1",
+]
