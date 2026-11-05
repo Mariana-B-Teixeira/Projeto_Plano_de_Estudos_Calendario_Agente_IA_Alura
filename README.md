@@ -1,11 +1,13 @@
-# 📚 Agente de Estudos Inteligente com IA & Google Cloud Storage
+# 📚 Agente especialista em plano de estudos para o Google Agenda
 
 > Projeto desenvolvido por Mariana Branco Teixeira no âmbito da Imersão Engenharia de Software: Dev na Era da IA, realizada em parceria entre a Alura e o Google for Startups.
 
 ---
 
 ## 😊 Sobre o Projeto
-Este repositório contém o código, os recursos e a documentação de um agente de estudos inteligente construído em Python. O sistema foi desenvolvido com o auxílio do Google AI Studio para gestão de chaves e modelos, utilizando o Agent Development Kit (ADK) e a Antigravity CLI para orquestração e execução de fluxos de agentes generativos. 
+Assistente autónomo e inteligente utilizando o Agent Development Kit (ADK) e a Antigravity CLI. O agente emprega skills especializadas para estruturar planos de estudos personalizados a partir de objetivos e prazos definidos pelo utilizador, gerando documento em CSV para integração com a Google Agenda e garantindo persistência segura de dados na nuvem com o Google Cloud Storage (GCS).
+
+Este repositório contém o código, os recursos e a documentação de um agente de estudos inteligente construído em Python. O sistema foi desenvolvido com o auxílio do Google AI Studio para gestão de chaves e modelos, utilizando o Agent Development Kit (ADK) e a Antigravity CLI para controle de fluxos de agentes generativos. 
 
 O projeto integra-se diretamente ao Google Cloud Storage (GCS) para garantir a persistência segura, automação e armazenamento de cronogramas, relatórios e datasets, sendo operado, testado e gerido através do ADK e da ferramenta de linha de comandos agents-cli.
 
